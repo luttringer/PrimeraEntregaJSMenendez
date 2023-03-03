@@ -1,0 +1,19 @@
+{
+  "name": "primeraentregajsmenendez",
+  "version": "1.0.0",
+  "description": "Primera entrega correspondiente a la carrera de full stack en Coderhouse, modulo dos de JavaScript.",
+  "main": "script.js",
+  "scripts": {
+    "watch": "sass --watch scss/main.scss:css/kernel_styles.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luttringer/PrimeraEntregaJSMenendez.git"
+  },
+  "author": "Christian Menendez Luttringer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luttringer/PrimeraEntregaJSMenendez/issues"
+  },
+  "homepage": "https://github.com/luttringer/PrimeraEntregaJSMenendez#readme"
+}
